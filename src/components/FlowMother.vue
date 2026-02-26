@@ -125,7 +125,7 @@ onMounted(() => {
    * Models
    */
   gltfLoader.load(
-    "https://image.andrewhome.club/scene.gltf",
+    "https://assets.anfos.top/scene.gltf",
     (gltf) => {
       gltf.scene.scale.set(3.5, 3.5, 3.5)
       gltf.scene.position.set(0, -2.5, 0)
